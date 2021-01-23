@@ -1,16 +1,16 @@
-### Hi there 👋
+#Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ,I am Gurpreet Singh!
 
-<!--
-**Rupinder1161/Rupinder1161** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working as Full stack Developer(React,Node,any Database)
+- 🌱 I’m currently learning AWS and cloud computing
+- 👯 I’m looking to collaborate on Full stack Projects
+- 🤔 I’m looking for help with AWS and google cloud
+- 💬 Ask me about JavaScript,React and Node.js
+- 📫 How to reach me: LinkedIn
+- 😄 Follow me on github
+- ⚡ Fun fact: Coding builds, logical mind. So start learning how to code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 😄 My Github Stats:
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rupinder1161&show_icons=true&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupinder1161&layout=compact" />
