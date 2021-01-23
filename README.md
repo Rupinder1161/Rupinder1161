@@ -1,4 +1,4 @@
-#Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ,I am Gurpreet Singh!
+<h2>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ,I am Gurpreet Singh!</h2>
 
 
 - 🔭 I’m currently working as Full stack Developer(React,Node,any Database)
